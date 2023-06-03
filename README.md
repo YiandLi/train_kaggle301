@@ -4,9 +4,9 @@
 https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/overview
 
 
-Multi-sample BM25 Negative Sampling: `runner.sh` -> `teaching/negative_sample/mp_bm25_sample.py`
-Train Step 1: using in-batch SimCSE: `teaching/step1_runner.py`
-Train Step 2: concat Bert Binary Classification: `teaching/step2_runner.py`
+Multi-sample BM25 Negative Sampling: `runner.sh` -> `teaching/negative_sample/mp_bm25_sample.py` \
+Train Step 1: using in-batch SimCSE: `teaching/step1_runner.py` \
+Train Step 2: concat Bert Binary Classification: `teaching/step2_runner.py` \
 Inference: `teaching/inference.py`
 
 # InfoNCE
